@@ -1,0 +1,18 @@
+.shop .shopList{
+    text-decoration: none;
+    margin-left: 20px;
+    color: #fff;
+}
+.shop{
+    padding: 10px 20px;
+    background-color: #341f97;
+    text-align:center;
+}
+.shop .logo{
+    padding-bottom: 20px;
+    text-align: left;
+}
+.shop .logo .logoshop{
+    color: #fff;
+    
+}
